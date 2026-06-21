@@ -5,7 +5,7 @@ Sitio web estático listo para subir a GitHub Pages.
 ## Datos incorporados desde la imagen
 
 - Nombre: FullCerrajería 24Hrs / Fullcerrajeria24hrs
-- Teléfono / WhatsApp: +56 9 9942 5829
+- Teléfono / WhatsApp: +56 9 9942 4235
 - Servicios: aperturas, instalaciones, vehículos, cajas fuertes, llaves con chip y protecciones.
 - Zonas: Viña del Mar, Concón, Quilpué, Valparaíso, Villa Alemana, El Belloto, Casablanca, Olmué y alrededores.
 - Estética: negro, rojo, blanco, estilo seguridad, atención 24/7.
@@ -31,6 +31,6 @@ Sitio web estático listo para subir a GitHub Pages.
 
 ## Qué editar
 
-- Para cambiar el teléfono, busca `56999425829` en `index.html` y `assets/js/main.js`.
+- Para cambiar el teléfono, busca `56999424235` en `index.html` y `assets/js/main.js`.
 - Para cambiar textos de servicios o comunas, edita directamente `index.html`.
 - Para actualizar la imagen de vista previa social, reemplaza `assets/img/og-image.jpg`.
